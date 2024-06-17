@@ -1,7 +1,0 @@
-[
-  {
-    "route": "GET /src/background/background.js",
-    "parameters": "()",
-    "status": 304
-  }
-]
